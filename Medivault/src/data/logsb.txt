@@ -1,0 +1,78 @@
+Registration successful for user: jaskaran guru
+Login successful for user: jaskaran guru
+Added Patient: harsh
+harsh | Age: 45 | Disease: heart stroke
+Added Appointment: harsh with parth on 2025-05-19
+harsh | Doctor: parth | Date: 2025-05-19
+Registration successful for user: suriya
+Login successful for user: suriya
+Added Patient: suriya
+harsh | Age: 45 | Disease: heart stroke
+suriya | Age: 34 | Disease: kidney
+Added Appointment: suriya with jai on 2025-05-25
+Login failed for user: jaskaran guru
+Registration successful for user: jaskaran guru
+Login successful for user: jaskaran guru
+Added Patient: rahul
+Added Appointment: rahul with raj on 2025-10-15
+rahul | Doctor: raj | Date: 2025-10-15
+Login failed for user: jaskaran guru
+Registration successful for user: ishaan
+Login successful for user: ishaan
+Added Patient: ishaan
+ishaan | Age: 19 | Disease: frature
+Added Appointment: ishaan with ishit on 2025-05-24
+ishaan | Doctor: ishit | Date: 2025-05-24
+Registration successful for user: jaskaran guru
+Login successful for user: jaskaran guru
+Login failed for user: jaskaran guru
+Added Doctor: john
+john | Specialty: cardiologist | Phone: 97845335
+Registration successful for user: jaskaran guru
+Login successful for user: jaskaran guru
+Added Patient: rahul
+rahul | Age: 45 | Disease: regular 
+Added Appointment: rahul with raj on 2025-05-7
+rahul | Doctor: raj | Date: 2025-05-7
+Added Doctor: jon
+jon | Specialty: cancer | Phone: 8796453732
+Login failed for user: jaskaran
+Registration successful for user: jaskaran
+Login failed for user: jaskaran 
+Added Patient: jaskaran
+jaskaran | Age: 32 | Disease: cancer
+Added Appointment:  with  on 
+ | Doctor:  | Date: 
+Added Doctor: 
+ | Specialty:  | Phone: 
+Registration successful for user: vishal
+Login successful for user: vishal
+Added Patient: suresh
+suresh | Age: 12 | Disease: cold
+Added Appointment: suresh with tarun on 2025-04-16
+suresh | Doctor: tarun | Date: 2025-04-16
+Added Doctor: ajay
+ajay | Specialty: child sepacialist | Phone: 97816677779
+Registration successful for user: jaskaean
+Login failed for user: jaskaran
+Added Patient: jasdkaran
+suresh | Age: 12 | Disease: cold
+jasdkaran | Age: 12 | Disease: frature
+Added Appointment: jaskaran with john on 2025-05-6
+suresh | Doctor: tarun | Date: 2025-04-16
+jaskaran | Doctor: john | Date: 2025-05-6
+Added Doctor: surah
+ajay | Specialty: child sepacialist | Phone: 97816677779
+surah | Specialty: frature  | Phone: 978353
+Login failed for user: jaskaran
+Added Appointment:  with  on 
+suresh | Doctor: tarun | Date: 2025-04-16
+jaskaran | Doctor: john | Date: 2025-05-6
+ | Doctor:  | Date: 
+Registration successful for user: jaskaran
+Login successful for user: jaskaran
+Added Patient: jasakran
+jasakran | Age: 17 | Disease: frature
+Added Appointment: jasakran with john on 2025-05-10
+jasakran | Doctor: john | Date: 2025-05-10
+Added Doctor: jaskaran

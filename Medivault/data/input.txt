@@ -1,0 +1,11 @@
+REGISTER jaskaran guru jaskaran
+LOGIN jaskaran guru jaskaran
+ADD_PATIENT jaskaran guru 19 alzymer
+LOGIN jaskaran guru jaskaran
+ADD_PATIENT harsh 45 dibetes
+Login attempt - username: 
+Login attempt - password: [HIDDEN]
+User entered username: jaskaran  guru
+User entered password: [HIDDEN]
+Login attempt - username: jaskaran guru
+Login attempt - password: [HIDDEN]

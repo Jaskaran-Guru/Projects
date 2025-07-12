@@ -1,0 +1,10 @@
+User registered: jaskaran guru
+Login failed for user: jaskaran guru
+Added Patient: jaskaran guru
+jaskaran guru | Age: 19 | Disease: alzymer
+Login failed for user: jaskaran guru
+Added Patient: harsh
+harsh | Age: 45 | Disease: dibetes
+Login failed for user: 
+Registration successful for user: jaskaran  guru
+Login failed for user: jaskaran guru

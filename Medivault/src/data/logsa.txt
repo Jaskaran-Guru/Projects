@@ -1,0 +1,72 @@
+User entered username: jaskaran guru
+User entered password: [HIDDEN]
+Login attempt - username: jaskaran guru
+Login attempt - password: [HIDDEN]
+ADD_PATIENT harsh 45 heart stroke
+ADD_APPOINTMENT harsh parth 2025-05-19
+User entered username: suriya
+User entered password: [HIDDEN]
+Login attempt - username: suriya
+Login attempt - password: [HIDDEN]
+ADD_PATIENT suriya 34 kidney
+ADD_APPOINTMENT suriya jai 2025-05-25
+Login attempt - username: jaskaran guru
+Login attempt - password: [HIDDEN]
+User entered username: jaskaran guru
+User entered password: [HIDDEN]
+Login attempt - username: jaskaran guru
+Login attempt - password: [HIDDEN]
+ADD_PATIENT rahul 3 frature
+ADD_APPOINTMENT rahul raj 2025-10-15
+Login attempt - username: jaskaran guru
+Login attempt - password: [HIDDEN]
+User entered username: ishaan
+User entered password: [HIDDEN]
+Login attempt - username: ishaan
+Login attempt - password: [HIDDEN]
+ADD_PATIENT ishaan 19 frature
+ADD_APPOINTMENT ishaan ishit 2025-05-24
+User entered username: jaskaran guru
+User entered password: [HIDDEN]
+Login attempt - username: jaskaran guru
+Login attempt - password: [HIDDEN]
+User entered username: jaskaran guru
+User entered password: [HIDDEN]
+Login attempt - username: jaskaran guru
+Login attempt - password: [HIDDEN]
+ADD_PATIENT rahul 45 regular 
+ADD_APPOINTMENT rahul raj 2025-05-7
+ADD_DOCTOR jon cancer 8796453732 jon@gmail.com
+Login attempt - username: jaskaran
+Login attempt - password: [HIDDEN]
+User entered username: jaskaran
+User entered password: [HIDDEN]
+Login attempt - username: jaskaran 
+Login attempt - password: [HIDDEN]
+ADD_PATIENT jaskaran 32 cancer
+ADD_APPOINTMENT   
+ADD_DOCTOR   
+User entered username: vishal
+User entered password: [HIDDEN]
+Login attempt - username: vishal
+Login attempt - password: [HIDDEN]
+ADD_PATIENT suresh 12 cold
+ADD_APPOINTMENT suresh tarun 2025-04-16
+ADD_DOCTOR ajay child sepacialist 97816677779
+User entered username: jaskaean
+User entered password: [HIDDEN]
+Login attempt - username: jaskaran
+Login attempt - password: [HIDDEN]
+ADD_PATIENT jasdkaran 12 frature
+ADD_APPOINTMENT jaskaran john 2025-05-6
+ADD_DOCTOR surah frature  978353
+Login attempt - username: jaskaran
+Login attempt - password: [HIDDEN]
+ADD_APPOINTMENT   
+User entered username: jaskaran
+User entered password: [HIDDEN]
+Login attempt - username: jaskaran
+Login attempt - password: [HIDDEN]
+ADD_PATIENT jasakran 17 frature
+ADD_APPOINTMENT jasakran john 2025-05-10
+ADD_DOCTOR jaskaran frature  94882

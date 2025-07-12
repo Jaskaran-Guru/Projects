@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  .left-pane {
+    width: 30%;
+    border-right: 1px solid #ccc;
+    padding: 20px;
+    height: 100vh;
+    overflow-y: auto;
+  }
+  
+  .right-pane {
+    width: 70%;
+    padding: 20px;
+  }
+  
+  form {
+    margin-top: 10px;
+  }
+  
+  input, textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  #questionList li {
+    cursor: pointer;
+    padding: 5px;
+  }
+  
+  #questionList li:hover {
+    background-color: #f0f0f0;
+  }
+  
